@@ -3,6 +3,7 @@
 ---
 ### Info
 - Example of an Ransomware for educational purposes
+- currently only works on windows machines
 ---
 ### How to build
     chmod +x build.sh
