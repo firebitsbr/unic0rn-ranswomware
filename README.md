@@ -12,3 +12,4 @@
 - Add Banner
 - Add webserverProxy
 - Add upx packer
+- Add tests
