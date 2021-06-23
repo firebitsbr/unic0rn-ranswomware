@@ -9,7 +9,7 @@
     chmod +x build.sh
     bash -c build.sh
 ---
-### TO-D0
+### TO-DO
 - Add Banner
 - Add webserverProxy
 - Add upx packer
