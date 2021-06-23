@@ -1,5 +1,4 @@
 # unic0rn-Ransomware
----
  [![forthebadge](https://forthebadge.com/images/badges/made-with-crayons.svg)](https://forthebadge.com)
 ---
 ### Info
