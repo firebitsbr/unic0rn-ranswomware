@@ -11,3 +11,4 @@ unic0rn is an example of an ransomware for ecudational purposes. It currently de
 - Add webserverProxy
 - Add upx packer
 - Add tests
+- Add better README
